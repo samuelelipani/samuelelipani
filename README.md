@@ -11,3 +11,5 @@
 - 📫 How to reach me: 
     - linkedin: https://www.linkedin.com/in/samuele-lipani-03656a229/
     - email: samuelelipani@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelelipani)](https://github.com/anuraghazra/github-readme-stats)
