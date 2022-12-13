@@ -1,6 +1,6 @@
 ### 👋 I'm Samuele, a Physicist and Data scientist  
 
-- 🔭 I’m currently working on Quantitative Life Science as an internship student at ICTP Trieste
+- 🔭 I’m currently working on Quantitative Life Science as a researcher at ICTP Trieste
 - 🌱 I’m an enthusiast Physicist and Data Scientist with interests in complex systems and ecology
 - 🏷️ Some projects i worked on are:
     - Study on coexistence and diversity for consumer resource models in a serial dilution setting; 
