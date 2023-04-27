@@ -1,6 +1,6 @@
 ### 👋 I'm Samuele, a Physicist and Data Scientist
 
-🔭 I’m currently working on microbial ecology and reduction of Carbon footprint by starting from real mobility data at INFN Padova
+🔭 I’m currently working on microbial ecology collaborating with LIPh_Lab, Padova and ICTP, Trieste and reduction of Carbon footprint by starting from real mobility data at INFN, Padova
 
 🌱 I’m an enthusiast Physicist and Data Scientist with interests in complex systems and theoretical and experimental ecology
 
